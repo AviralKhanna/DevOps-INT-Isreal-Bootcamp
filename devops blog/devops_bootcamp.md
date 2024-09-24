@@ -1,7 +1,9 @@
 
 # My Journey into DevOps as an AIML Student
 
-As an AIML student at UPES, my journey into the world of DevOps began with a bootcamp conducted by INTESEAM professors. Coming from an artificial intelligence and machine learning background, the concepts of development operations (DevOps) seemed foreign at first. However, I soon realized the importance of these tools and practices, especially as they enable seamless collaboration between development and IT operations. The goal was to understand how to automate and streamline processes like code integration, deployment, and managing infrastructure—skills critical for both data scientists and developers.
+Recently, my team and I had the honor of winning a bootcamp project on DevOps. As an AIML student, this was a significant milestone in my learning journey, enabling me to bridge the gap between artificial intelligence and modern development operations. The project allowed me to apply both machine learning principles and DevOps practices, combining the automation of workflows with the efficient management of infrastructure. This hands-on experience deepened my understanding of how AI models can be integrated seamlessly into production environments, benefiting from the scalable, reliable, and automated processes that DevOps offers.
+
+Through this document, I hope to share my experiences and insights from the bootcamp, serving as a resource for other AIML students eager to explore the powerful synergies between DevOps and AI. As an AIML student at UPES, my journey into the world of DevOps began with a bootcamp conducted by INT Isreal professors. Coming from an artificial intelligence and machine learning background, the concepts of development operations (DevOps) seemed foreign at first. However, I soon realized the importance of these tools and practices, especially as they enable seamless collaboration between development and IT operations. The goal was to understand how to automate and streamline processes like code integration, deployment, and managing infrastructure—skills critical for both data scientists and developers.
 
 Throughout the bootcamp, I covered a wide array of topics, starting with the fundamentals of Linux, Bash, and Docker. These form the foundation of managing server environments and application containers. As I progressed, I delved deeper into advanced topics like CI/CD pipelines, setting up reverse proxies using Nginx, deploying Python-based applications using Flask, and managing multi-container applications using Docker Compose.
 
@@ -287,7 +289,7 @@ The objective was to create a web application similar to Netflix that allows use
 
 ## Conclusion: From Beginner to DevOps Practitioner
 
-Participating in the bootcamp, under the guidance of the INTESEAM professors, has been a transformative experience. When I began, my knowledge of DevOps was limited, as my primary focus had always been on artificial intelligence and machine learning. However, this bootcamp opened my eyes to the essential role that DevOps plays in the modern development lifecycle, especially in ensuring that applications and machine learning models are seamlessly integrated, deployed, and maintained across various environments.
+Participating in the bootcamp, under the guidance of the INT Isreal professors, has been a transformative experience. When I began, my knowledge of DevOps was limited, as my primary focus had always been on artificial intelligence and machine learning. However, this bootcamp opened my eyes to the essential role that DevOps plays in the modern development lifecycle, especially in ensuring that applications and machine learning models are seamlessly integrated, deployed, and maintained across various environments.
 
 ### Growth and Key Takeaways
 
