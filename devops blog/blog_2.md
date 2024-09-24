@@ -1,4 +1,4 @@
-```markdown
+
 # Step 1: Introduction to Docker, Linux, and Bash
 
 At the beginning of my DevOps journey, I recognized the importance of understanding the basics of Docker, Linux, and Bash, especially since I came from a non-development background. Here’s a detailed breakdown of each component:
@@ -134,4 +134,4 @@ This DevOps bootcamp provided me with the knowledge and skills necessary to mana
 4. Scale and manage web applications using Nginx, Flask, and Docker Compose.
 
 The journey from learning basic tools to deploying a fully Dockerized application in the cloud marks a significant step towards becoming proficient in DevOps. This journey emphasizes automating workflows, managing environments, and ensuring smooth deployments across diverse platforms.
-```
+
